@@ -20,7 +20,7 @@ ReactDOM.render(
       <Provider store={Store}>
         <Menu mode="horizontal">
           <Menu.Item key="home" icon={<HomeOutlined />}>
-            <Link to="/">Home</Link>
+            <Link to="/">Homeeeee</Link>
           </Menu.Item>
           <Menu.Item key="about" icon={<AppstoreFilled />}>
             <Link to="/about">About</Link>
