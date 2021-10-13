@@ -5,7 +5,7 @@ import welcomeLottie from "../lottie/welcome.json";
 function CmpHome() {
   return (
     <div>
-      <h1>Ana Sayfa Tayfun</h1>
+      <h1>Ana Sayfa Tayfun xxxxx</h1>
       <Lottie
         height={400}
         width={400}
